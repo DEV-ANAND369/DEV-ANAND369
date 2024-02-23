@@ -1,10 +1,9 @@
 # Welcome to My GitHub Profile! 🚀
 
 ## About Me
-I'm [Anand], a passionate [Full Stack Web Developer] from [India]. I love exploring new technologies and building cool projects.
+I'm Anand, a passionate Full Stack Web Developer from India. I love exploring new technologies and building cool projects.
 
-- 🔭 I’m currently working on [Wordpress Project].
-- 🌱 I’m currently learning [MERN STACK].
+- 🔭 I’m currently working on [Wordpress Project]
 - 💬 Ask me about [Web Development].
 - 📫 How to reach me: [singhanandrajput812@gmail,com].
 
