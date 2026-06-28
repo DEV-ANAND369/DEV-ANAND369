@@ -1,7 +1,7 @@
 <!-- HEADER SECTION WITH ANIMATED BANNER -->
 <div align="center">
   <a href="https://github.com/DEV-ANAND369">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=900&size=45&center=true&vCenter=true&width=600&height=80&duration=3000&lines=👋+Hey,+I'm+Anand+Singh!;🚀+Full+Stack+Developer;💻+Web+Enthusiast;🤖+AI+%26+ML+Explorer;⚡+Building+the+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=900&size=45&center=true&vCenter=true&width=600&height=80&duration=3000&lines=👋+Hey,+I'm+Anand+Singh!;🚀+Full+Stack+Developer;💻+Web+Enthusiast;🤖+AI%2FML+Explorer" alt="Typing animation" />
   </a>
 </div>
 
@@ -38,12 +38,12 @@
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
 <div align="center">
-  
+
 ### 🎨 Frontend Development
-<br/>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,21 +53,21 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend Development
-<br/>
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 💾 Database & CMS
-<br/>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🔧 Tools & Platforms
-<br/>
+
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -77,10 +77,10 @@
 
 ---
 
-## 📊 **GitHub Analytics Dashboard**
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dev-anand369&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=📈%20GitHub%20Statistics" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dev-anand369&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-anand369&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
@@ -93,37 +93,23 @@
 
 ---
 
-## 🏆 **Achievements & Recognition**
+## 🏆 Achievements & Recognition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev-anand369&theme=radical&no-frame=true&no-bg=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-anand369&theme=radical&no-frame=true&no-bg=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 💡 **Daily Dose of Inspiration**
+## 💡 Daily Inspiration
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
 </div>
 
 ---
 
-## 🔥 **Top Repositories**
-
-<div align="center">
-  
-| 📦 Repository | 📝 Description | ⭐ Stats |
-|---|---|---|
-| [My Portfolio](https://github.com/DEV-ANAND369) | Personal portfolio website | ![Badge](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) |
-| [Web Projects](https://github.com/DEV-ANAND369) | Collection of web development projects | ![Badge](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) |
-| [More Coming](https://github.com/DEV-ANAND369) | Exciting projects in progress | ![Badge](https://img.shields.io/badge/Status-Soon-yellow?style=flat-square) |
-
-</div>
-
----
-
-## 🎨 **Featured Projects**
+## 🎨 Featured Projects
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7d2b01ce-fe9b-4944-a08a-e93ab3fab1cd.gif" width="200" alt="projects" />
@@ -133,40 +119,32 @@
 
 ---
 
-## 🌐 **Connect With Me**
+## 🌐 Connect With Me
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect&labelColor=0A66C2)](https://linkedin.com/in/dev-anand369)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev-anand369)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-anand369)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev_anand369)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhanandrajput812@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://dev-anand369.github.io)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev-anand369)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev_anand369)
 
 </div>
 
 ---
 
-## 📈 **Contribution Graph**
+## 📈 Contribution Stats
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=dev-anand369&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=dev-anand369&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Statistics" />
 </div>
 
 ---
 
-## 💬 **Latest Activity**
+## 🎯 2024 Goals
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7d2b01ce-fe9b-4944-a08a-e93ab3fab1cd.gif" width="100" alt="activity" />
-</div>
 
----
-
-## 🎯 **2024 Goals**
-
-<div align="center">
-  
 - ✅ Master Advanced React & TypeScript
 - 🔄 Learn Machine Learning Basics
 - 🚀 Build 5+ Production Projects
@@ -178,17 +156,17 @@
 
 ---
 
-## 📊 **Profile Views**
+## 👀 Profile Analytics
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=dev-anand369&icon=9&color=12" alt="Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=dev-anand369&icon=9&color=12" alt="Profile Views Counter" />
 </div>
 
 ---
 
 <!-- FOOTER SECTION -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120" alt="footer" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120" alt="footer wave" />
   
   ### ✨ Thanks for Visiting My Profile! ✨
   
@@ -197,8 +175,8 @@
     <i>Feel free to reach out or star ⭐ my repositories</i>
   </p>
   
-  <img src="https://user-images.githubusercontent.com/74038190/216655814-a1f1f0ba-5253-4e90-9c70-91e34d7ae07a.gif" width="300" alt="coding" />
-  
+  <img src="https://user-images.githubusercontent.com/74038190/216655814-a1f1f0ba-5253-4e90-9c70-91e34d7ae07a.gif" width="300" alt="footer coding animation" />
+
 </div>
 
 ---
@@ -210,5 +188,5 @@
 
 <!-- Decorative Bottom Line -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="decorative line" />
 </div>
